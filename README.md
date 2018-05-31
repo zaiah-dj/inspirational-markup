@@ -5,9 +5,9 @@ I have a love/hate relationship with web design.   I don't like a lot of current
 
 ## Tables
 
-Site      | Who?            | URL                                                        |
-========= | =============== | ========================================================== |
-Top Speed | .....           | https://www.topspeed.com/cars/koenigsegg/index52.html      |
+|Site      | Who?            | URL                                                        |
+|--------- | --------------- | ---------------------------------------------------------- |
+|Top Speed | .....           | https://www.topspeed.com/cars/koenigsegg/index52.html      |
 
 
 ## Comments, Questions, Hate Mail
